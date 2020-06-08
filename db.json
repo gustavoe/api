@@ -1,8 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "empresas": [
+    { "id": 1, "nombre":"La Anonima", "domicilio": "Domicilio 1" },
+    { "id": 2, "nombre":"Camiones SRL", "domicilio": "Domicilio 2" },
+    { "id": 3, "nombre":"Estática y Dinámica SA", "domicilio": "Domicilio 3" }
+    { "id": 4, "nombre":"El sol SA", "domicilio": "Domicilio 4" }
+    { "id": 5, "nombre":"Diromar", "domicilio": "Domicilio 5" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
