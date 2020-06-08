@@ -2,8 +2,8 @@
   "empresas": [
     { "id": 1, "nombre":"La Anonima", "domicilio": "Domicilio 1" },
     { "id": 2, "nombre":"Camiones SRL", "domicilio": "Domicilio 2" },
-    { "id": 3, "nombre":"Estática y Dinámica SA", "domicilio": "Domicilio 3" }
-    { "id": 4, "nombre":"El sol SA", "domicilio": "Domicilio 4" }
+    { "id": 3, "nombre":"Estática y Dinámica SA", "domicilio": "Domicilio 3" },
+    { "id": 4, "nombre":"El sol SA", "domicilio": "Domicilio 4" },
     { "id": 5, "nombre":"Diromar", "domicilio": "Domicilio 5" }
   ],
   "comments": [
