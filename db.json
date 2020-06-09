@@ -1,10 +1,47 @@
 {
   "empresas": [
-    { "id": 1, "nombre":"La Anonima", "domicilio": "Domicilio 1" },
-    { "id": 2, "nombre":"Camiones SRL", "domicilio": "Domicilio 2" },
-    { "id": 3, "nombre":"Estática y Dinámica SA", "domicilio": "Domicilio 3" },
-    { "id": 4, "nombre":"El sol SA", "domicilio": "Domicilio 4" },
-    { "id": 5, "nombre":"Diromar", "domicilio": "Domicilio 5" }
+    {
+        "IdEmpresa": 1,
+        "RazonSocial": "Empresa A                                         ",
+        "CantidadEmpleados": 110,
+        "FechaFundacion": "2000-08-02T00:00:00"
+    },
+    {
+        "IdEmpresa": 2,
+        "RazonSocial": "Empresa B                                         ",
+        "CantidadEmpleados": 10,
+        "FechaFundacion": "2008-05-22T00:00:00"
+    },
+    {
+        "IdEmpresa": 3,
+        "RazonSocial": "Empresa C                                         ",
+        "CantidadEmpleados": 42,
+        "FechaFundacion": "1990-09-22T00:00:00"
+    },
+    {
+        "IdEmpresa": 4,
+        "RazonSocial": "Empresa D                                         ",
+        "CantidadEmpleados": 45,
+        "FechaFundacion": "1988-04-19T00:00:00"
+    },
+    {
+        "IdEmpresa": 5,
+        "RazonSocial": "Empresa E                                         ",
+        "CantidadEmpleados": 5,
+        "FechaFundacion": "2019-01-22T00:00:00"
+    },
+    {
+        "IdEmpresa": 9,
+        "RazonSocial": "hola                                              ",
+        "CantidadEmpleados": 12,
+        "FechaFundacion": "1980-10-12T03:00:00"
+    },
+    {
+        "IdEmpresa": 10,
+        "RazonSocial": "prueba                                            ",
+        "CantidadEmpleados": 13,
+        "FechaFundacion": "2010-10-12T03:00:00"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
