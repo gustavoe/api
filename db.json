@@ -43,9 +43,67 @@
         "FechaFundacion": "2010-10-12T03:00:00"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "libros": [
+    {
+        "IdLibro": 1,
+        "NombreLibro": "Estudios 1",
+        "PrecioLibro": 1239
+    },
+    {
+        "IdLibro": 2,
+        "NombreLibro": "Estudios 2",
+        "PrecioLibro": 2239
+    },
+    {
+        "IdLibro": 3,
+        "NombreLibro": "Estudios 3",
+        "PrecioLibro": 45239
+    },
+    {
+        "IdLibro": 4,
+        "NombreLibro": "Estudios 4",
+        "PrecioLibro": 5439
+    },
+    {
+        "IdLibro": 5,
+        "NombreLibro": "Estudios 5",
+        "PrecioLibro": 7639
+    },
+    {
+        "IdLibro": 6,
+        "NombreLibro": "Estudios 6",
+        "PrecioLibro": 1573
+    },
+    {
+        "IdLibro": 7,
+        "NombreLibro": "Compendio 1",
+        "PrecioLibro": 3439
+    },
+    {
+        "IdLibro": 8,
+        "NombreLibro": "Compendio 2",
+        "PrecioLibro": 345
+    },
+    {
+        "IdLibro": 9,
+        "NombreLibro": "Compendio 3",
+        "PrecioLibro": 3756
+    },
+    {
+        "IdLibro": 10,
+        "NombreLibro": "Compendio 4",
+        "PrecioLibro": 675
+    },
+    {
+        "IdLibro": 11,
+        "NombreLibro": "Compendio 5",
+        "PrecioLibro": 2145
+    },
+    {
+        "IdLibro": 12,
+        "NombreLibro": "Compendio 6",
+        "PrecioLibro": 6465
+    }
   ],
   "profile": {
     "name": "typicode"
