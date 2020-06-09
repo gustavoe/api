@@ -45,65 +45,116 @@
   ],
   "libros": [
     {
-        "IdLibro": 1,
+        "id": 1,
         "NombreLibro": "Estudios 1",
         "PrecioLibro": 1239
     },
     {
-        "IdLibro": 2,
+        "id": 2,
         "NombreLibro": "Estudios 2",
         "PrecioLibro": 2239
     },
     {
-        "IdLibro": 3,
+        "id": 3,
         "NombreLibro": "Estudios 3",
         "PrecioLibro": 45239
     },
     {
-        "IdLibro": 4,
+        "id": 4,
         "NombreLibro": "Estudios 4",
         "PrecioLibro": 5439
     },
     {
-        "IdLibro": 5,
+        "id": 5,
         "NombreLibro": "Estudios 5",
         "PrecioLibro": 7639
     },
     {
-        "IdLibro": 6,
+        "id": 6,
         "NombreLibro": "Estudios 6",
         "PrecioLibro": 1573
     },
     {
-        "IdLibro": 7,
+        "id": 7,
         "NombreLibro": "Compendio 1",
         "PrecioLibro": 3439
     },
     {
-        "IdLibro": 8,
+        "id": 8,
         "NombreLibro": "Compendio 2",
         "PrecioLibro": 345
     },
     {
-        "IdLibro": 9,
+        "id": 9,
         "NombreLibro": "Compendio 3",
         "PrecioLibro": 3756
     },
     {
-        "IdLibro": 10,
+        "id": 10,
         "NombreLibro": "Compendio 4",
         "PrecioLibro": 675
     },
     {
-        "IdLibro": 11,
+        "id": 11,
         "NombreLibro": "Compendio 5",
         "PrecioLibro": 2145
     },
     {
-        "IdLibro": 12,
+        "id": 12,
         "NombreLibro": "Compendio 6",
         "PrecioLibro": 6465
     }
+  ],
+  "personas":[
+    {
+        "id": 1,
+        "nombre": "Nombre 01",
+        "apellido": "Apellido 01",
+        "dni": 2100000
+    },
+    {
+        "id": 2,
+        "nombre": "Nombre 02",
+        "apellido": "Apellido 02",
+        "dni": 34365768
+    },
+        {
+        "id": 3,
+        "nombre": "Nombre 03",
+        "apellido": "Apellido 03",
+        "dni": 65878212
+    },
+        {
+        "id": 4,
+        "nombre": "Nombre 04",
+        "apellido": "Apellido 04",
+        "dni": 2100000
+    },
+        {
+        "id": 5,
+        "nombre": "Nombre 05",
+        "apellido": "Apellido 05",
+        "dni": 56878798
+    },
+        {
+        "id": 6,
+        "nombre": "Nombre 06",
+        "apellido": "Apellido 06",
+        "dni": 98235476
+    },
+        {
+        "id": 7,
+        "nombre": "Nombre 07",
+        "apellido": "Apellido 07",
+        "dni": 77437721
+    },
+        {
+        "id": 8,
+        "nombre": "Nombre 08",
+        "apellido": "Apellido 08",
+        "dni": 88445432
+    }
+    
   ],
   "profile": {
     "name": "typicode"
